@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//viktaryushkevich/github.io/monsters-rolodex/static/css/main.89b89aef.chunk.css",
+    "main.js": "/https//viktaryushkevich/github.io/monsters-rolodex/static/js/main.ee820c08.chunk.js",
+    "main.js.map": "/https//viktaryushkevich/github.io/monsters-rolodex/static/js/main.ee820c08.chunk.js.map",
+    "runtime-main.js": "/https//viktaryushkevich/github.io/monsters-rolodex/static/js/runtime-main.ed8c13cb.js",
+    "runtime-main.js.map": "/https//viktaryushkevich/github.io/monsters-rolodex/static/js/runtime-main.ed8c13cb.js.map",
+    "static/js/2.faf01414.chunk.js": "/https//viktaryushkevich/github.io/monsters-rolodex/static/js/2.faf01414.chunk.js",
+    "static/js/2.faf01414.chunk.js.map": "/https//viktaryushkevich/github.io/monsters-rolodex/static/js/2.faf01414.chunk.js.map",
+    "index.html": "/https//viktaryushkevich/github.io/monsters-rolodex/index.html",
+    "precache-manifest.11ff6e7a6c602f2f1a226b4adcad706b.js": "/https//viktaryushkevich/github.io/monsters-rolodex/precache-manifest.11ff6e7a6c602f2f1a226b4adcad706b.js",
+    "service-worker.js": "/https//viktaryushkevich/github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.89b89aef.chunk.css.map": "/https//viktaryushkevich/github.io/monsters-rolodex/static/css/main.89b89aef.chunk.css.map",
+    "static/js/2.faf01414.chunk.js.LICENSE.txt": "/https//viktaryushkevich/github.io/monsters-rolodex/static/js/2.faf01414.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed8c13cb.js",
+    "static/js/2.faf01414.chunk.js",
+    "static/css/main.89b89aef.chunk.css",
+    "static/js/main.ee820c08.chunk.js"
+  ]
+}
