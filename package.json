@@ -2,7 +2,7 @@
   "name": "monsters-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//viktaryushkevich.github.io/monsters-rolodex",
+  "homepage": "https//github.io/viktaryushkevich/monsters-rolodex",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
